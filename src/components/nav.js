@@ -33,7 +33,7 @@ const StyledHeader = styled.header`
 
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
-      props.scrollDirection === 'up' &&
+    props.scrollDirection === 'up' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -43,7 +43,7 @@ const StyledHeader = styled.header`
       `};
 
     ${props =>
-      props.scrollDirection === 'down' &&
+    props.scrollDirection === 'down' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -173,11 +173,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/Resume.pdf" target="_blank" rel="noopener noreferrer"> 
+    <a className="resume-button" href="https://drive.google.com/file/d/1XZAFJyZcTUsBzQIMo4TmqLGVJPvo3n9w/view?usp=sharing" target="_blank" rel="noopener noreferrer"> 
       Resume
     </a>
   );
-// add link of resume later above in href and add _black in target to open it in a new tab on clicking
+  // add link of resume later above in href and add _black in target to open it in a new tab on clicking
   return (
     <StyledHeader scrollDirection={scrollDirection} scrolledToTop={scrolledToTop}>
       <StyledNav>

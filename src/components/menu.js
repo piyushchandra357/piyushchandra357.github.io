@@ -73,8 +73,7 @@ const StyledHamburgerButton = styled.button`
       width: ${props => (props.menuOpen ? `100%` : `120%`)};
       top: ${props => (props.menuOpen ? `0` : `-10px`)};
       opacity: ${props => (props.menuOpen ? 0 : 1)};
-      transition: ${({ menuOpen }) =>
-        menuOpen ? 'var(--ham-before-active)' : 'var(--ham-before)'};
+      transition: ${({ menuOpen }) => menuOpen ? 'var(--ham-before-active)' : 'var(--ham-before)'};
     }
     &:after {
       width: ${props => (props.menuOpen ? `100%` : `80%`)};
@@ -266,7 +265,7 @@ const Menu = () => {
               </ol>
             )}
 
-            {<a href="https://drive.google.com/file/d/1r3JluKUd5qkBRrXKJkb5XThb70XdHzN0/view?usp=sharing" className="resume-link">
+            {<a href="https://drive.google.com/file/d/1XZAFJyZcTUsBzQIMo4TmqLGVJPvo3n9w/view?usp=sharing" target="_blank" rel="noreferrer" className="resume-link">
               Resume
             </a> }
           </nav>
