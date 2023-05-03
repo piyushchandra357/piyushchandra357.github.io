@@ -127,12 +127,11 @@ const About = () => {
 
   const skills = [
     'Machine Learning',
-    'React',
+    'MySQL',
     'Python',
     'Deep Learning',
-    'Node.js',
+    'Salesforce Platform',
     'AWS',
-    'Database',
   ];
 
   return (
