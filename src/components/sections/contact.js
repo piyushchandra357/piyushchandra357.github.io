@@ -60,10 +60,10 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am currently studying. Looking for work opportunities and developing new skills in the corporate workspace.
-        Work related inquiries?
+        I have graduated in 2023. Looking for work opportunities for developing new skills in the corporate workspace.
       </p>
-
+      
+      <p>Work Related Queries?</p>
       <a className="email-link" href={`mailto:${email}`}>
         E-mail
       </a>
