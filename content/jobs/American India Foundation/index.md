@@ -1,9 +1,9 @@
 ---
 date: '2023-03-23'
-title: 'Data Analytics Intern'
+title: 'Data Analytics Trainee'
 company: 'American India Foundation'
 location: 'Delhi,India'
-range: 'March 2023 - Present '
+range: 'March - June 2023'
 url: 'https://aif.org/'
 
 ---

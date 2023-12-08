@@ -126,12 +126,10 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Machine Learning',
+    'Data Science',
     'MySQL',
     'Python',
-    'Deep Learning',
     'Salesforce Platform',
-    'AWS',
   ];
 
   return (
@@ -142,15 +140,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Piyush and I enjoy creating things with Machine Learning to meet
-              special Applications. My interest in this field started back in 2019 when I decided to
-              try building chatbot with python just for fun. Turns out it taught me a lot about it!
+              Hello! My name is Piyush and I enjoy creating and doing things that meet
+              special Applications. I mainly work on Data Science and Machine Learning. I am also
+              well familar with a lot of technologies in other fields like Web Development and Salesforce.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of joining my university's most
-              active Tech club <a href="https://technojam.tech/">TechoJam</a>, My main focus these
-              days is building and deployment of the projects that I'm working on.
+              I've also had some experience in managing, leading and working with different teams at my university, where I had 
+              the privilege of working with my university's active Tech club <a href="https://technojam.tech/">TechoJam</a>. 
+              Most of the activities involved project development and deployment and co-ordinating big events like hackathons, as well.
             </p>
 
             <p>Technologies that I've been working with recently:</p>

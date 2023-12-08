@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-title: 'Salesforce Developer'
+title: 'Salesforce Developer Intern'
 company: 'SmartBridge'
 location: 'Delhi,India'
 range: 'July - September 2022'

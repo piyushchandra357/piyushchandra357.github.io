@@ -189,7 +189,7 @@ const Projects = () => {
     }
   `);
 
-  const [showMore, setShowMore] = useState(false);
+  const [showMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
   const revealProjects = useRef([]);
@@ -267,7 +267,7 @@ const Projects = () => {
       <h2 ref={revealTitle}>{/* add name of the heading here. previously it was "Other noteworthy projects"*/}</h2> 
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-       {/* add name of the heading here. previously it was "view the archive"*/}
+        {/* add name of the heading here. previously it was "view the archive"*/}
       </Link>
 
       <ul className="projects-grid">
