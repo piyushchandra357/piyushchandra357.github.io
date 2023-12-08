@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://piyushchandra357.github.io/sitemap.xml
+Sitemap: https://piyushchandra357.github.io/sitemap-index.xml
 Host: https://piyushchandra357.github.io
