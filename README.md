@@ -10,7 +10,6 @@
 
 ![demo](https://raw.githubusercontent.com/piyushchandra357/piyushchandra357.github.io/code/src/images/demo.png)
 
-
 ### TL;DR
 
 Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
@@ -54,12 +53,15 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    ```sh
    npm run serve
    ```
+
 3. Build & Deployment to GitHub. Automatically creates a master branch for deployment.
 
    ```sh
    gatsby build && gh-pages -d public -b master
    ```
-### Note: You need to have Git installed on your machine and also need to authorize it after running this command for deployment.
+
+### Note: You need to have Git installed on your machine and also need to authorize it after running this command for deployment
+
 <br>
 
 ## 🎨 Color Reference

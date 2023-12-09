@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Piyush Chandra | ML Engineer',
+    title: 'Piyush Chandra | CS Engineer',
     description:
       'Piyush Chandra is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://piyushchandra357.github.io', // No trailing slash allowed!
