@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/piyushchandra357/piyushchandra357.github.io/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website - v1
+  Portfolio Website - v3
 </h1>
 <p align="center">
   The first iteration of <a href="https://piyushchandra357.github.io/" target="_blank">https://piyushchandra357.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
