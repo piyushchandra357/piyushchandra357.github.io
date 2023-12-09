@@ -1,6 +1,6 @@
 ---
 date: '2023-05'
-title: 'AirBnB isting Prices'
+title: 'AirBnB Listing Prices'
 github: 'https://github.com/piyushchandra357/aif_project'
 external: ''
 tech:
