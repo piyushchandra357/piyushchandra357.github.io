@@ -10,4 +10,4 @@ tech:
 showInProjects: True
 ---
 
-Analysis of prices based on certain criteria with applied advanced statistical analysis and predictions on data with visualization of various of the data to draw visual inferences.
+A research assistance platform to bridge the gap in research infrastructure by gathering professor data from multiple universities.
